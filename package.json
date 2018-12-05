@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajnega/background-generator.git"
+  },
+  "author": "Amjed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajnega/background-generator/issues"
+  },
+  "homepage": "https://github.com/ajnega/background-generator#readme",
+  "dependencies": {
+    "react": "^16.6.3"
+  }
+}
